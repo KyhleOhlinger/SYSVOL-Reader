@@ -1,6 +1,6 @@
 # SYSVOL-Reader
 
-Adaptation of the [SYSVOL reader](https://github.com/DLWood1001/Registry-Policy-Module) by DLWood1001. There are some excellent (PowerShell Projects)(https://github.com/PowerShell/GPRegistryPolicy) which do the same thing, I just needed to access the SYSVOL files in Python.
+Adaptation of the [SYSVOL reader](https://github.com/DLWood1001/Registry-Policy-Module) by DLWood1001. There are some excellent [PowerShell Projects](https://github.com/PowerShell/GPRegistryPolicy) which do the same thing, I just needed to access the SYSVOL files in Python.
 
 ## Updates to the Project
 Since the repository was last updated around 8 years ago at the time of creating this repository, I decided to just update it myself instead of forking and pushing new code. Updates to the project include:
