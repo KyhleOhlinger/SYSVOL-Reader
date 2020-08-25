@@ -65,5 +65,12 @@ Within the states.py file, I added in some basic debugging code when trying to i
 * There are still issues with decoding MULTI_SZ and BINARY: The way the script currently works, it should print out some values and not get stuck.
 * Unimplemented Reg_Types: The SYSVOL structures that I currently have access to do not make use of the additional Reg_Types, so I haven't been able to determine what is required for decoding them. 
 
+## Follow Me
 
+<img height="32" width="32" src="https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/GitHub.svg" /> [Github: KyhleOhlinger](https://github.com/KyhleOhlinger)
 
+<img height="32" width="32" src="https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/LinkedIn.svg" /> [LinkedIn: Kyhle Ohlinger](https://za.linkedin.com/in/kyhleohlinger)
+
+<img height="32" width="32" src="https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/LogoGlyphMd.svg" /> [StackOverflow: Kyhle Ohlinger](https://stackoverflow.com/users/5114477/kyhle-ohlinger)
+
+<img height="32" width="32" src="https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/Twitter.svg" /> [Twitter: KyhleO](https://twitter.com/KyhleO)
