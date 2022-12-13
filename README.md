@@ -73,4 +73,4 @@ Within the states.py file, I added in some basic debugging code when trying to i
 
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" /> [StackOverflow: Kyhle Ohlinger](https://stackoverflow.com/users/5114477/kyhle-ohlinger)
 
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /> [Twitter: KyhleO](https://twitter.com/KyhleO
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /> [Twitter: KyhleO](https://twitter.com/KyhleO)
